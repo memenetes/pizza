@@ -11,3 +11,7 @@ Follow the steps:
 - Install service mesh of your choice
 - Enable cluster federation
 - `kubectl apply -f pizza.yaml`
+
+## Contributions
+
+All kinds of contribution welcome.
