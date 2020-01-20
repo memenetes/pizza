@@ -14,4 +14,4 @@ Follow the steps:
 
 ## Contributions
 
-All kinds of contribution welcome.
+All kinds of contribution welcome. The more complicated, the better.
