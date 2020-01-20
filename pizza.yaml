@@ -1,0 +1,9 @@
+apiVersion: extensions/v1alpha1
+kind: Pizza
+metadata:
+  name: pepperoni
+spec:
+  tomato: yes
+  salami: "200gr"
+  mozarella: "100gr"
+  size: "18"
